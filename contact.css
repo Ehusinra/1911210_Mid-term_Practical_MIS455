@@ -6,7 +6,7 @@ body {
     background-color: #f7f9fc;
 }
 header {
-    background-color: #59ce42;
+    background-color: #85d874;
     color: #fff;
     padding: 1rem 0;
 }
@@ -24,7 +24,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #000000;
     text-decoration: none;
     padding: 0.5rem 1rem;
     cursor: pointer;
@@ -32,8 +32,19 @@ nav ul li a {
 }
 
 nav ul li a:hover {
+    color: #fff;
     background-color: #1d4048;
     border-radius: 8px;
+}
+
+
+main{
+    flex: 1;
+    background-image: url('bgimg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 50px 20px;
 }
 
 .contact-section {
