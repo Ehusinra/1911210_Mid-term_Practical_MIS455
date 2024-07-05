@@ -33,7 +33,7 @@ nav ul li a {
 
 nav ul li a:hover {
     color: #fff;
-    background-color: #1d4048;
+    background-color: #0c7097;
     border-radius: 8px;
 }
 
@@ -124,7 +124,7 @@ main{
 }
 
 footer {
-        background-color: #535353;
+        background-color: #31313f;
         color: #fff;
         text-align: center;
         padding: 10px 0;
